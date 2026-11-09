@@ -5,9 +5,9 @@
 <h3>Desenvolvedora de Software • Inteligência Artificial • Desenvolvimento Web</h3>
 
 ```text
-୨୧ ─────────────────────────────────────────────── ୨୧
-          Bem-vindo(a) ao meu Portfólio no GitHub
-୨୧ ─────────────────────────────────────────────── ୨୧
+                                                            ୨୧ ─────────────────────────────────────────────── ୨୧
+                                                                      Bem-vindo(a) ao meu Portfólio no GitHub
+                                                            ୨୧ ─────────────────────────────────────────────── ୨୧
 ```
 
 *"A tecnologia é o lugar onde a criatividade encontra a inovação."*
